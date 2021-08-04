@@ -8,5 +8,8 @@ v3(Todo): Oauth
 
 reference: https://docs.spring.io/spring-security/site/docs/current/reference/html5/ \
            https://www.bezkoder.com/spring-boot-jwt-authentication/ \
-           https://webfirewood.tistory.com/115
+           https://webfirewood.tistory.com/115 \
+           https://coding-start.tistory.com/153 \
+           https://coding-start.tistory.com/158
+           
            
